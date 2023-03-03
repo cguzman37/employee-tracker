@@ -24,6 +24,7 @@ https://github.com/cguzman37/employee-tracker
 
 # Video Link
 
+https://www.kapwing.com/videos/6401825b358a07001e2c55ad
 
 # Acknowledgements
 
