@@ -11,38 +11,3 @@ const initialQuestion = [
 ]
 module.exports = initialQuestion;
 
-
-
-
-
-
-
-
-
-
-
-
-
-// init();
-// function init(){
-//     initialQ();
-// }
-
-
-
-// function initialQ () {
-// inquirer.prompt(initialQuestion)
-// .then(ans=>{
-//     console.log(ans);
-//     // ans.option === "want to try again" ? initialQ() : process.exit();
-//     switch (ans.option) {
-//         case "want to try again":
-//             initialQ()
-//             break;
-    
-//         default:
-//             break;
-//     }
-// })
-// }
-
